@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(219, 219, 219);
+}
+
+.App {
+    width: 1000px;
+    height: 500px;
+    background-color: #fff;
+    margin: 5% auto;
+    display: flex;
+    padding: 0;
+}

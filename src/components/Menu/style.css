@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.Menu {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10pt;
+    color: rgb(75, 126, 184);
+    margin: 30% 15%;
+    
+}
+.Left-block {
+    margin: 0;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(236, 234, 234);
+}
+
+.Logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 100%;
+    /*
+        Bad styles???
+        margin-left: 25%;
+        margin-top: 100%;
+    */
+}
